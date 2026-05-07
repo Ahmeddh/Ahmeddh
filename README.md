@@ -110,19 +110,6 @@ Partner with founders, product leaders, and enterprises to **design, build, and 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmeddh&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://streak-stats.demolab.com?user=ahmeddh&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmeddh&theme=tokyonight&bg_color=09071A&color=8EB5F7&line=8EB5F7&point=ffffff&hide_border=true" />
-</p>
-
----
-
 ## 🧗 Vision
 
 > "The next decade of fintech and digital platforms will be won by teams who can build fast — *and* be trusted with money, identity, and data."
